@@ -1,0 +1,136 @@
+<div id="content" class="col-md-12" style="">
+<div data-drupal-messages-fallback="" class="hidden"/><div id="block-medsites-page-title" class="widget block">
+<h1><span property="schema:name">Anticoagulation Parameters</span>
+</h1>
+</div>
+<div id="block-medsites-content" class="widget block">
+<article data-history-node-id="1056" role="article" about="/commodorecompendium/anticoagulation-parameters" typeof="schema:WebPage">
+<div>
+<div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p> </p>
+<table class="PlainTable11" style="width: 274px; border-collapse: collapse; border: none; margin-left: 9px; margin-right: 9px;" width="180">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-style: solid; border-color: rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; background-color: black;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:white">Procedure</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; background-color: black; border-top: 1px solid rgb(191, 191, 191); border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:white">PLT &amp; INR</span></span></span></b></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">Paracentesis</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">PLT &gt; 20k, INR &lt; 4 *</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">Central Line</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">PLT &gt; 20k, INR &lt; 3</span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">Thoracentesis</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">PLT &gt; 50k, INR &lt; 2 *</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 12px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">Lumbar Puncture</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 12px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">PLT &gt; 50k, INR &lt; 1.6</span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">US PIV</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">PLT &gt; 10k, no INR</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 165px; padding: 0in 7px; height: 11px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">DHT</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 77px; padding: 0in 7px; height: 11px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="margin-right:-1px; text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">PLT &gt; 10k, no INR</span></span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<table class="PlainTable11" style="width: 350px; border-collapse: collapse; border: none; margin-left: 9px; margin-right: 9px;" width="150">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-style: solid; border-color: rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; background-color: black;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:white">Anticoagulant</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; background-color: black; border-top: 1px solid rgb(191, 191, 191); border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:white">When to Hold</span></span></span></b></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">Heparin gtt</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">4-8 hours, ensure PTT wnl</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">LMWH</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">12-24 hours</span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">Dabigitran</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">1-2 days</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">Eliquis</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">1-2 day</span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">Xarelto</span></span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; background-color: rgb(242, 242, 242); border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino"><span style="color:black">1-2 days</span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 150.5px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: 1px solid rgb(191, 191, 191);">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:Palatino">Warfarin</span></span></b></span></span></span></p>
+</td>
+<td style="border-bottom: 1px solid rgb(191, 191, 191); width: 1px; padding: 0in 7px; border-top: none; border-right: 1px solid rgb(191, 191, 191); border-left: none;">
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Palatino">5-7 days</span></span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</article>
+</div>
+</div>
